@@ -154,4 +154,4 @@
 		}
 	}
 
-}(this, document, jQuery));
+}(window, document, jQuery));
